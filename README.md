@@ -2,7 +2,7 @@
 
 This is the Official Repo For Paper 'A 3D Robust Multi-Camera-Ken Multi-Object Tracking Framework'.
 
-The paper is currently in the first peer review :open_hands:. We plan to open the source code when the revised manuscript is submitted, thank you for your continued attention :sparkles:.
+The paper is currently in the first peer review. We plan to open the source code when the revised manuscript is submitted, thank you for your continued attention :sparkles:.
 
 ## Quick Overview
 
@@ -19,6 +19,8 @@ The visualization of RockTrack with the BEVHeight detector on the nuScenes val s
 <div align=center>
 <img src="https://github.com/lixiaoyu2000/Rock-Track/blob/main/docs/ALL_CAMS_VIDEO_101.gif"/>
 </div>
+
+Sorry they are a bit blurry :frowning:, you can download [the raw video](https://github.com/lixiaoyu2000/Rock-Track/blob/main/docs/) in `.mp4` format.
 
 
 
