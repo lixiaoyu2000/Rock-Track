@@ -1,6 +1,6 @@
 # Rock-Track
 
-This is the Official Repo For Paper 'A 3D Robust Multi-Camera-Ken Multi-Object Tracking Framework'.
+This is the Official Repo For Paper 'RockTrack: A 3D Robust Multi-Camera-Ken Multi-Object Tracking Framework'.
 
 The paper is currently in the first peer review. We plan to open the source code when the revised manuscript is submitted, thank you for your continued attention :sparkles:.
 
@@ -10,7 +10,11 @@ We propose Rock-Track, a 3D Robust Multi-Camera-Ken MOT framework with only came
 
 ## Visualization
 
-The visualization of RockTrack with the BEVHeight detector on the nuScenes val set. (Up: scenes-17, Bottom: scenes-101)
+The visualization of RockTrack with the BEVHeight detector on the nuScenes val set. 
+
+<p align="center">
+  Up: scenes-17, Bottom: scenes-101
+</p>
 
 <div align=center>
 <img src="https://github.com/lixiaoyu2000/Rock-Track/blob/main/docs/ALL_CAMS_VIDEO_17.gif"/>
@@ -22,5 +26,7 @@ The visualization of RockTrack with the BEVHeight detector on the nuScenes val s
 
 Sorry they are a bit blurry :frowning:, you can download [the raw video](https://github.com/lixiaoyu2000/Rock-Track/blob/main/docs/) in `.mp4` format.
 
+## Contact
 
+Welcome to follow our previous work '[Poly-MOT](https://github.com/lixiaoyu2000/Poly-MOT/tree/main): A Polyhedral Framework For 3D Multi-Object Tracking'.
 
