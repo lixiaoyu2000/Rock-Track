@@ -13,12 +13,16 @@ We propose Rock-Track, a 3D Robust Multi-Camera-Ken MOT framework with only came
 The visualization of RockTrack with the BEVHeight detector on the nuScenes val set. 
 
 <p align="center">
-  Up: scenes-17, Bottom: scenes-101
+  scenes-17
 </p>
 
 <div align=center>
 <img src="https://github.com/lixiaoyu2000/Rock-Track/blob/main/docs/ALL_CAMS_VIDEO_17.gif"/>
 </div>
+
+<p align="center">
+  scenes-101
+</p>
 
 <div align=center>
 <img src="https://github.com/lixiaoyu2000/Rock-Track/blob/main/docs/ALL_CAMS_VIDEO_101.gif"/>
