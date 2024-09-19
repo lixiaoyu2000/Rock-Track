@@ -4,9 +4,13 @@ This is the Official Repo For Paper 'RockTrack: A 3D Robust Multi-Camera-Ken Mul
 
 The paper is currently in the first peer review. We plan to open the source code when the revised manuscript is submitted, thank you for your continued attention :sparkles:.
 
+
 ## Quick Overview
 
-We propose Rock-Track, a 3D Robust Multi-Camera-Ken MOT framework with only camera input :camera:. RockTrack achieves state-of-the-art performance on the [nuScenes vision-only tracking leaderboard](https://www.nuscenes.org/tracking?externalData=no&mapData=no&modalities=Camera) with 59.1\% AMOTA and exhibits impressive real-time capabilities :rocket:.
+- Warm-up 🔥! We released [Rock-Track](https://arxiv.org/pdf/2409.11749), a 3D MOT method for multi-camera detectors based on our previous method [Poly-MOT](https://github.com/lixiaoyu2000/Poly-MOT). Welcome to follow.
+
+- We propose Rock-Track, a 3D Robust Multi-Camera-Ken MOT framework with only camera input :camera:. RockTrack achieves state-of-the-art performance on the [nuScenes vision-only tracking leaderboard](https://www.nuscenes.org/tracking?externalData=no&mapData=no&modalities=Camera) with 59.1\% AMOTA and exhibits impressive real-time capabilities :rocket:.
+
 
 ## Visualization
 
