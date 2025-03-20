@@ -1,8 +1,8 @@
 # Rock-Track
 
-This is the Official Repo For Paper 'RockTrack: A 3D Robust Multi-Camera-Ken Multi-Object Tracking Framework'.
+This is the Official Repo For Paper 'RockTrack: A Robust Baseline For Multi-Camera 3D Multi-Object Tracking'.
 
-The paper is currently in the first peer review. We plan to open the source code when the revised manuscript is submitted, thank you for your continued attention :sparkles:.
+The paper is currently in peer review. We plan to open the source code when the revised manuscript is submitted, thank you for your continued attention :sparkles:.
 
 
 ## Quick Overview
@@ -14,7 +14,7 @@ The paper is currently in the first peer review. We plan to open the source code
 
 ## Visualization
 
-The visualization of RockTrack with the BEVHeight detector on the nuScenes val set. 
+The visualization of RockTrack with the [HeighTrans](https://github.com/PeidongLi/DualBEV) detector on the nuScenes val set. 
 
 <p align="center">
   scenes-17
